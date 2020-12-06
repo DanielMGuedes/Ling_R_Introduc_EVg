@@ -1,2 +1,5 @@
 # Ling_R_Introduc_EVg
-Exercício do Curso de Linguagem R da Escola Virtual de GOverno
+
+Roteiro desenvolvido por DanielMGUedes.
+
+Roteiro dos Treinamento do Curso: **"Linguagem R da Escola Virtual de GOverno"**
